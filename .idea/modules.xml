@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java_restauant.iml" filepath="$PROJECT_DIR$/java_restauant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_restaurant.iml" filepath="$PROJECT_DIR$/java_restaurant.iml" />
     </modules>
   </component>
 </project>
